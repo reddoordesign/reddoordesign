@@ -1,6 +1,10 @@
 /* your styles go here */
 
-#section4 ul img {
-    padding: 10px 15px 15px 0;
+#contact ul img {
+    padding: 10px 7px 0px 7px;
 
 }
+
+#join-us ul img {
+    padding: 10px 7px 0px 7px;
+} 
